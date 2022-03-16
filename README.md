@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluejunior
-- 👀 I’m interested in C,Java and Python
+- 👀 I’m interested in C, Java and Python
 - 🌱 I’m currently learning C
 - 💞️ I’m looking for a teacher :)
 
